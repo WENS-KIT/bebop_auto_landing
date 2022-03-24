@@ -1,7 +1,7 @@
 # Bebop Auto Landing with Aruco marker
 This repository is for auto landing drone using Bebop2 with Aruco marker  
 What it Aruco marker?  
->**Reference** : [ArUco Markers](https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html) 
+>**Reference** : [**ArUco Markers**](https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html) 
  
 An ArUco marker is a synthetic square marker composed by a wide black border and an inner binary matrix which determines its identifier (id).  
 
