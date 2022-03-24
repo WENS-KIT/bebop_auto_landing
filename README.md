@@ -3,13 +3,14 @@ This repository is for auto landing drone using Bebop2 with Aruco marker
 What it Aruco marker?  
 >**Reference** : [ArUco Markers](https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html) 
  
-An ArUco marker is a synthetic square marker composed by a wide black border and an inner binary matrix which determines its identifier (id).   
+An ArUco marker is a synthetic square marker composed by a wide black border and an inner binary matrix which determines its identifier (id).  
 
-
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/70830088/159876633-b1b468b5-bdbd-4b39-ac4f-e96a089403b0.jpg" title="ArUco Marker" alt="make" width="40%" height="40%"/>
-</p>
 </br>
+
+<figure align="center">
+<img src="https://user-images.githubusercontent.com/70830088/159876633-b1b468b5-bdbd-4b39-ac4f-e96a089403b0.jpg" title="ArUco Marker" alt="make" width="50%" height="50%"/>
+<figcaption><b>Aruco marker</b></figcaption>
+</figure>
 
 # Environment
  > **Warning:** Bebop2 ROS package supports only ROS_kinetic (ubuntu 16.04)
@@ -54,6 +55,3 @@ python bebop_test.py
 
 # Paper
 * 강호현, and 신수용. "[Aruco Marker 를 사용한 드론 정밀 착륙 시스템](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11024380&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR&hasTopBanner=true)" 한국통신학회논문지 47.1 (2022): 145-150.
-
-
-bebop autonomy & arucomaker 서브모듈 추가하기
