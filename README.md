@@ -7,10 +7,10 @@ An ArUco marker is a synthetic square marker composed by a wide black border and
 
 </br>
 
-<figure align="center">
-<img src="https://user-images.githubusercontent.com/70830088/159876633-b1b468b5-bdbd-4b39-ac4f-e96a089403b0.jpg" title="ArUco Marker" alt="make" width="50%" height="50%"/>
-<figcaption><b>Aruco marker</b></figcaption>
-</figure>
+<img src="https://user-images.githubusercontent.com/70830088/159876633-b1b468b5-bdbd-4b39-ac4f-e96a089403b0.jpg" title="ArUco Marker" alt="make" width="40%" height="40%"/>
+<figcaption><b>Aruco marker  Ref : https://github.com/WENS-KIT/bebop_auto_landing/blob/main/README.md</b></figcaption>
+
+</br>
 
 # Environment
  > **Warning:** Bebop2 ROS package supports only ROS_kinetic (ubuntu 16.04)
