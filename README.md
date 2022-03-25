@@ -48,6 +48,7 @@ source ~/catkin_ws/devel/setup.bash
 
 roslaunch bebop_driver bebop_nodelet.launch
 roslaunch aruco_ros single.launch
+
 cd ~/catkin_ws/src/bebop_auto_landing
 python bebop_auto_landing.py
 python bebop_test.py
